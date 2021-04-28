@@ -21,6 +21,7 @@ Here is how we recommend the recipe to the user in streamlit.
 4. Under every recommendation, we also provide futher recommendation based on content-based filtering and using the doc2vec method.
 
 
-
+## Streamlit Main Page
+![Screenshot 2021-04-28 at 6 13 58 PM](https://user-images.githubusercontent.com/77132971/116387697-a2ab1000-a84d-11eb-80bd-c8a37fe1da9f.png)
 
 
